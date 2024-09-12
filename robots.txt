@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+# Pointing to sitemap
+Sitemap: https://www.gauravxsharma.me/sitemap.xml
