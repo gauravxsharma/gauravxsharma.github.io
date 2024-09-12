@@ -29,13 +29,6 @@
     <priority>0.80</priority>
   </url>
 
-  <!-- Skills Section -->
-  <url>
-    <loc>https://www.gauravxsharma.me/#skills</loc>
-    <lastmod>2024-09-12</lastmod>
-    <priority>0.80</priority>
-  </url>
-
   <!-- Contact Section -->
   <url>
     <loc>https://www.gauravxsharma.me/#contact</loc>
